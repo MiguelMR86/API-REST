@@ -30,8 +30,13 @@ to use nodemon correctly we need to go to the package.json file and edit the scr
 
 (Replace index route)
 
+
 ## Run
 To run it you just need to type: 
 $ npm run dev
 
 And open xampp and START MySQL service
+
+
+## Extra
+To make POST, GET, PATCH and DELETE queries I'm using the vscode extension Thunder Client 
