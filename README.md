@@ -1,5 +1,5 @@
 # API-REST
-My api REST made with Express, Node and MySQL
+My api REST CRUD made with Express, Node and MySQL
 
 ## Installation
 First of all we will need to install Node (Currently v18.13.0), you can download it here: 
