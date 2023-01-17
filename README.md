@@ -30,6 +30,7 @@ to use nodemon correctly we need to go to the package.json file and edit the scr
 
 (Replace index route)
 
+## Run
 To run it you just need to type: 
 $ npm run dev
 
