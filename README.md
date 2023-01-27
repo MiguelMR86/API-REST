@@ -39,4 +39,4 @@ And open xampp and START MySQL service
 
 
 ## Extra
-To make POST, GET, PATCH and DELETE queries I'm using the vscode extension Thunder Client 
+To make all the Requests I'm using the vscode extension Thunder Client 
