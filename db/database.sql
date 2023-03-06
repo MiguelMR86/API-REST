@@ -11,7 +11,7 @@ CREATE TABLE employee (
 DESCRIBE employee;
 
 INSERT INTO employee (name, salary) VALUES
-    ("Miguel", 3200)
+    ("Miguel", 3200),
     ("Joe", 2000),
     ("Herny", 2100),
     ("Laura", 3000);
